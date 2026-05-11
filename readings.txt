@@ -1,0 +1,25 @@
+Ideal Performance Readings for Case 3
+
+1. Average Response Time:
+- Ideal: Below 500 ms
+
+2. p95 Latency:
+- Ideal: Below 800 ms
+- Sample Result: 742 ms
+
+3. Error Rate:
+- Ideal: Less than 1%
+- Sample Result: 0.42%
+
+4. Throughput:
+- Ideal: Stable throughput during peak load
+- Sample Result: 83.3 requests/sec
+
+5. CPU Usage:
+- Ideal: Below 75%
+
+6. Memory Usage:
+- Ideal: No memory spikes or pod restarts
+
+7. Database Connections:
+- Ideal: Connection pool should not exhaust
