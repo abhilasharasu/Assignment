@@ -1,0 +1,21 @@
+UIDAI Spike Test - Sample Aggregate Report
+
+Label: POST Auth API
+Samples: 5000
+Average Response Time: 420 ms
+Median Response Time: 390 ms
+90% Line: 650 ms
+95% Line (p95): 742 ms
+99% Line: 910 ms
+Minimum Response Time: 110 ms
+Maximum Response Time: 1200 ms
+Error Percentage: 0.42%
+Throughput: 83.3 requests/sec
+Received KB/sec: 420.5
+Sent KB/sec: 55.2
+
+Status: PASS
+
+Reason:
+- p95 latency is below 800 ms
+- Error percentage is below 1%
